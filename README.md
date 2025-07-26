@@ -1,6 +1,6 @@
 # 🐚 C Reverse Shell 
 
-Este rep1ositório contém um código de **shell reverso escrito em linguagem C**, ideal para fins educacionais, CTFs e testes de segurança autorizados.
+Este repositório contém um código de **shell reverso escrito em linguagem C**, ideal para fins educacionais, CTFs e testes de segurança autorizados.
 
 ---
 
