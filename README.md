@@ -114,7 +114,7 @@ Para evitar que códigos como este sejam executados, algumas boas práticas incl
 
 ## 👨‍💻 Autor
 
-- [r0daemon](https://github.com/0daemon)
+- [h4ckthreat](https://github.com/h4ckthreat)
 
 ---
 
